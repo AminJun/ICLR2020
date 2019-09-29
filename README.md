@@ -5,7 +5,7 @@ Feel free to use this to download all ICLR2020 Papers. You can also use this to 
 For downloading the papers, this script uses `curl`. To look up in the pdf files, you need to have `pdfgrep` installed. To download all of the papers, you need roughly 7.5GB of storage on your machine. 
 
 ### Installation 
-If you're am mac user use: 
+To install `pdfgrep`, on mac use: 
 ```
 brew install pdfgrep
 ```
