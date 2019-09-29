@@ -23,5 +23,5 @@ source getpdfs.sh
 
 Finally, to look up your own name use: 
 ```
-source findall.sh "My name"
+source findall.sh "My name" > file_to_save_output.txt
 ```
