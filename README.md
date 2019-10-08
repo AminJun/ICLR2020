@@ -32,5 +32,7 @@ source findall.sh "My name" > file_to_save_output.txt
 ### Update 
 To see the list of top 20 papers, based on the number of comments, just run: 
 ```
-source sort_comment.sh
+source sort_comment.sh 20
 ```
+
+You can alternatively, run `sort_comment.sh` and see the complete list of sorted papers in file `sorted.txt`
